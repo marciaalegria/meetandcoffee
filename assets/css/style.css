@@ -112,7 +112,9 @@
     margin-left: 2.5%;
     white-space: normal;
   }
-  
+  #eventos{
+    width: 100%;
+  }
   .evento {
     width: 30%;
   }
@@ -164,4 +166,6 @@
     width: 65%;
     height: 100%;
   }
- 
+ .image{
+    width: 100%;
+ }
